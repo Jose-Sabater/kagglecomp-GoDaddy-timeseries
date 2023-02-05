@@ -1,0 +1,13 @@
+#LSTM
+https://towardsdatascience.com/tutorial-on-lstm-a-computational-perspective-f3417442c2cd#95b4
+https://www.kaggle.com/code/konradb/ts-6-deep-learning-for-ts-rnn-and-friends?scriptVersionId=108938187
+https://towardsdatascience.com/all-you-need-to-know-about-rnns-e514f0b00c7c
+https://github.com/javaidnabi31/RNN-from-scratch/blob/master/RNN_char_text%20generator.ipynb
+
+#GRU
+https://medium.com/analytics-vidhya/rnn-vs-gru-vs-lstm-863b0b7b1573
+
+
+
+#KFolds and feature engineering
+https://www.kaggle.com/code/artgor/ventilator-pressure-prediction-eda-fe-and-models
