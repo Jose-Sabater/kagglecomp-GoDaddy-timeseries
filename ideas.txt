@@ -11,3 +11,14 @@
 - since many of our census datapoints are just done yearly, maybe we could do a regression with them to map
 the growth/decrease for each month. Then we might have features indicating the evolution of those parameters,
 which could potentially have a good effect on our model.
+
+#Features
+- Location
+
+
+-Other ideas from forum
+https://www.kaggle.com/code/snnclsr/gluonts-deepar-model-with-validation
+
+
+To try:
+try the correlation with POP division
