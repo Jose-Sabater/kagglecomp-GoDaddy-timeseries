@@ -11,3 +11,7 @@ https://medium.com/analytics-vidhya/rnn-vs-gru-vs-lstm-863b0b7b1573
 
 #KFolds and feature engineering
 https://www.kaggle.com/code/artgor/ventilator-pressure-prediction-eda-fe-and-models
+
+#LSTM in pytorch
+https://cnvrg.io/pytorch-lstm/
+https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html
