@@ -2,3 +2,4 @@
 /venv
 __pycache__
 /models
+/nb/catboost_info
